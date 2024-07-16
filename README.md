@@ -2,6 +2,7 @@
 - 👀 I’m interested in coding and designing.
 - 🌱 I’m currently learning react.
 - 📫 How to reach me mustafa.soy
+- 😔 My job environment is getting behind me and slowing me down.
 
 <!---
 mustafa-soylemez/mustafa-soylemez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
